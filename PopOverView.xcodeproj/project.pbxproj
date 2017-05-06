@@ -7,14 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ABDCAF641EBCE978006DBC91 /* PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABDCAF631EBCE978006DBC91 /* PopViewController.swift */; };
 		ABE88DD41EBB228B006CB3EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE88DD31EBB228B006CB3EF /* AppDelegate.swift */; };
 		ABE88DD61EBB228C006CB3EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE88DD51EBB228C006CB3EF /* ViewController.swift */; };
 		ABE88DD91EBB228C006CB3EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DD71EBB228C006CB3EF /* Main.storyboard */; };
 		ABE88DDB1EBB228C006CB3EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DDA1EBB228C006CB3EF /* Assets.xcassets */; };
 		ABE88DDE1EBB228C006CB3EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DDC1EBB228C006CB3EF /* LaunchScreen.storyboard */; };
+		ABE88DF21EBB26EE006CB3EF /* angry.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DE61EBB26EE006CB3EF /* angry.png */; };
+		ABE88DF31EBB26EE006CB3EF /* avatar1.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DE71EBB26EE006CB3EF /* avatar1.png */; };
+		ABE88DF41EBB26EE006CB3EF /* avatar2.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DE81EBB26EE006CB3EF /* avatar2.png */; };
+		ABE88DF51EBB26EE006CB3EF /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DE91EBB26EE006CB3EF /* comment.png */; };
+		ABE88DF61EBB26EE006CB3EF /* greyLike.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DEA1EBB26EE006CB3EF /* greyLike.png */; };
+		ABE88DF71EBB26EE006CB3EF /* haha.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DEB1EBB26EE006CB3EF /* haha.png */; };
+		ABE88DF81EBB26EE006CB3EF /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DEC1EBB26EE006CB3EF /* img.png */; };
+		ABE88DF91EBB26EE006CB3EF /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DED1EBB26EE006CB3EF /* like.png */; };
+		ABE88DFA1EBB26EE006CB3EF /* love.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DEE1EBB26EE006CB3EF /* love.png */; };
+		ABE88DFB1EBB26EE006CB3EF /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DEF1EBB26EE006CB3EF /* sad.png */; };
+		ABE88DFC1EBB26EE006CB3EF /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DF01EBB26EE006CB3EF /* share.png */; };
+		ABE88DFD1EBB26EE006CB3EF /* wow.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE88DF11EBB26EE006CB3EF /* wow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ABDCAF631EBCE978006DBC91 /* PopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopViewController.swift; sourceTree = "<group>"; };
 		ABE88DD01EBB228B006CB3EF /* PopOverView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopOverView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABE88DD31EBB228B006CB3EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ABE88DD51EBB228C006CB3EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +36,18 @@
 		ABE88DDA1EBB228C006CB3EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABE88DDD1EBB228C006CB3EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABE88DDF1EBB228C006CB3EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABE88DE61EBB26EE006CB3EF /* angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry.png; sourceTree = "<group>"; };
+		ABE88DE71EBB26EE006CB3EF /* avatar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar1.png; sourceTree = "<group>"; };
+		ABE88DE81EBB26EE006CB3EF /* avatar2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar2.png; sourceTree = "<group>"; };
+		ABE88DE91EBB26EE006CB3EF /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		ABE88DEA1EBB26EE006CB3EF /* greyLike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greyLike.png; sourceTree = "<group>"; };
+		ABE88DEB1EBB26EE006CB3EF /* haha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haha.png; sourceTree = "<group>"; };
+		ABE88DEC1EBB26EE006CB3EF /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
+		ABE88DED1EBB26EE006CB3EF /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		ABE88DEE1EBB26EE006CB3EF /* love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = love.png; sourceTree = "<group>"; };
+		ABE88DEF1EBB26EE006CB3EF /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		ABE88DF01EBB26EE006CB3EF /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		ABE88DF11EBB26EE006CB3EF /* wow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,35 @@
 		ABE88DD21EBB228B006CB3EF /* PopOverView */ = {
 			isa = PBXGroup;
 			children = (
+				ABE88DE51EBB26A9006CB3EF /* Resources */,
 				ABE88DD31EBB228B006CB3EF /* AppDelegate.swift */,
 				ABE88DD51EBB228C006CB3EF /* ViewController.swift */,
 				ABE88DD71EBB228C006CB3EF /* Main.storyboard */,
 				ABE88DDA1EBB228C006CB3EF /* Assets.xcassets */,
 				ABE88DDC1EBB228C006CB3EF /* LaunchScreen.storyboard */,
 				ABE88DDF1EBB228C006CB3EF /* Info.plist */,
+				ABDCAF631EBCE978006DBC91 /* PopViewController.swift */,
 			);
 			path = PopOverView;
+			sourceTree = "<group>";
+		};
+		ABE88DE51EBB26A9006CB3EF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ABE88DE61EBB26EE006CB3EF /* angry.png */,
+				ABE88DE71EBB26EE006CB3EF /* avatar1.png */,
+				ABE88DE81EBB26EE006CB3EF /* avatar2.png */,
+				ABE88DE91EBB26EE006CB3EF /* comment.png */,
+				ABE88DEA1EBB26EE006CB3EF /* greyLike.png */,
+				ABE88DEB1EBB26EE006CB3EF /* haha.png */,
+				ABE88DEC1EBB26EE006CB3EF /* img.png */,
+				ABE88DED1EBB26EE006CB3EF /* like.png */,
+				ABE88DEE1EBB26EE006CB3EF /* love.png */,
+				ABE88DEF1EBB26EE006CB3EF /* sad.png */,
+				ABE88DF01EBB26EE006CB3EF /* share.png */,
+				ABE88DF11EBB26EE006CB3EF /* wow.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +171,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABE88DDE1EBB228C006CB3EF /* LaunchScreen.storyboard in Resources */,
+				ABE88DF21EBB26EE006CB3EF /* angry.png in Resources */,
+				ABE88DF71EBB26EE006CB3EF /* haha.png in Resources */,
+				ABE88DFC1EBB26EE006CB3EF /* share.png in Resources */,
 				ABE88DDB1EBB228C006CB3EF /* Assets.xcassets in Resources */,
+				ABE88DF61EBB26EE006CB3EF /* greyLike.png in Resources */,
+				ABE88DFA1EBB26EE006CB3EF /* love.png in Resources */,
+				ABE88DFB1EBB26EE006CB3EF /* sad.png in Resources */,
+				ABE88DF81EBB26EE006CB3EF /* img.png in Resources */,
+				ABE88DFD1EBB26EE006CB3EF /* wow.png in Resources */,
 				ABE88DD91EBB228C006CB3EF /* Main.storyboard in Resources */,
+				ABE88DF31EBB26EE006CB3EF /* avatar1.png in Resources */,
+				ABE88DF41EBB26EE006CB3EF /* avatar2.png in Resources */,
+				ABE88DF51EBB26EE006CB3EF /* comment.png in Resources */,
+				ABE88DF91EBB26EE006CB3EF /* like.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +197,7 @@
 			files = (
 				ABE88DD61EBB228C006CB3EF /* ViewController.swift in Sources */,
 				ABE88DD41EBB228B006CB3EF /* AppDelegate.swift in Sources */,
+				ABDCAF641EBCE978006DBC91 /* PopViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +359,7 @@
 				ABE88DE41EBB228C006CB3EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
